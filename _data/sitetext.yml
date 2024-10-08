@@ -21,12 +21,12 @@ en: &DEFAULT_EN
     text: "Supporting your business get online"
     section: services
     list:
-      - title: "Online Presence"
-        desc: "DPR interactive specialises in getting small business online, working with you to provide solutions to support your growing business."
-        icon: fas fa-server #find more at https://fontawesome.com/icons
       - title: "IT infrastructure"
         desc: "Whether you run your own business from home or have a small team to provide devices for we can help you discover and provide devices that will enable you or your team to work smoothly"
-        icon: fas fa-desktop
+        icon: fas fa-desktop #find more at https://fontawesome.com/icons
+      - title: "Online Presence"
+        desc: "DPR interactive specialises in getting small business online, working with you to provide solutions to support your growing business."
+        icon: fas fa-server
       - title: "Safety"
         desc: "DPR interactive helps you connect as a team and to your customers safely, providing the tools and some training to help keep your IT secure. We also offer support options following initial setup to help you maintain this security."
         icon: fas fa-lock
@@ -35,22 +35,20 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "DPR interactive specialises in working with small business, whether you are self employed, have a small team, you are just starting your venture or looking to expand."
-    body: [
-      "Don't let slow devices limit your growth, power up your business to the next level with personal devices, networking, firewalls, router, servers and more.
+    body: "Don't let slow devices limit your growth, power up your business to the next level with personal devices, networking, firewalls, router, servers and more.
       We'll work with you to meet your goals of what you want your IT to do for you and your company, utilising our network of suppliers to get you the best tech at the best price."
-      ]
     section: about
 
   team:
     title: "OUR AMAZING TEAM"
     text: "DPR interactive specialise in helping small businesses as we are also a small business and we know how cost can be a major factor"
-    subtext: Using experience gained through personal projects and successful previous role-outs with other businesses, we aim to grow alongside our customers
+    subtext: Using experience gained through personal projects and successful previous role-outs with other businesses, we aim to grow alongside our customers.
+            Our team isn't listed here in full, we have support in the background to help you transition your IT. 
     section: team
     people:
       - name: "Dafydd"
         role: "Founder"
         image: assets/img/1.jpg
-
 
   contact:
     title: "Contact Us"
