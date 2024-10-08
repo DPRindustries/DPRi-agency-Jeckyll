@@ -23,10 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Online Presence"
         desc: "DPR interactive specialises in getting small business online, working with you to provide solutions to support your growing business."
-        icon: fas "fa-solid fa-server" #find more at https://fontawesome.com/icons
+        icon: fas fa-server #find more at https://fontawesome.com/icons
       - title: "IT infrastructure"
         desc: "Whether you run your own business from home or have a small team to provide devices for we can help you discover and provide devices that will enable you or your team to work smoothly"
-        icon: fas "fa-solid fa-computer"
+        icon: fas fa-desktop
+      - title: "Safety"
+        desc: "DPR interactive helps you connect as a team and to your customers safely, providing the tools and some training to help keep your IT secure. We also offer support options following initial setup to help you maintain this security."
+        icon: fas fa-lock
 
 
   about:
@@ -40,8 +43,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "DPR interactive specialise in helping small businesses as we are also a small business and we know how cost can be a major factor"
+    subtext: Using experience gained through personal projects and successful previous role-outs with other businesses, we aim to grow alongside our customers
     section: team
     people:
       - name: "Dafydd"
