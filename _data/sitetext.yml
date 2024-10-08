@@ -24,11 +24,11 @@ en: &DEFAULT_EN
       - title: "Online Presence"
         desc: "DPR interactive specialises in getting small businesses online, working with you to provide solutions to support your growing business at a personalised price point that meets your company's needs now and in the future."
         icon: fas fa-server
-      - title: "IT infrastructure"
+      - title: "infrastructure"
         desc: "Whether you run your own business from home or have a small team to provide devices for DPR interactive can help you discover and provide devices that will enable you or your team to work smoothly"
         icon: fas fa-desktop #find more at https://fontawesome.com/icons
-      - title: "Safety"
-        desc: "DPR interactive helps you connect as a team and to your customers safely, providing the tools and some training to help keep your IT and your interests secure. We also offer support options following initial setup to help you maintain this security."
+      - title: "Connected Securely"
+        desc: "DPR interactive helps you connect as a team, your customer and your suppliers securely, providing the tools, support and even some training during your initial install and for a period after to help keep your IT and your interests secure."
         icon: fas fa-lock
 
   support:
