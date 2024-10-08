@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Supporting your business get online"
     section: services
     list:
-      - title: "It infrastructure"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Online Presence"
+        desc: "DPR interactive specialises in getting small business online, working with you to provide solutions to support your growing business."
+        icon: fas "fa-solid fa-server" #find more at https://fontawesome.com/icons
+      - title: "IT infrastructure"
+        desc: "Whether you run your own business from home or have a small team to provide devices for we can help you discover and provide devices that will enable you or your team to work smoothly"
+        icon: fas "fa-solid fa-computer"
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Your description here, full **Markdown** support"
+#        icon: fab fa-markdown
 
 ## hashed out but left in below in for future addition if needed. ##
 
@@ -74,8 +74,9 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "DPR interactive specialises in working with small business, whether you are self employed, have a small team, you are just starting your venture or looking to expand."
+    body: "We'll work with you to meet your goals of what you want your IT to do for you and your company, utilising our network of suppliers to get you the best tech at the best price."
+    body: "Don't let slow devices limit your growth, power up your business to the next level with personal devices, networking, firewalls, router, servers and more."
     section: about
 
 ## hashed out but left in below in for future addition if needed. ##
