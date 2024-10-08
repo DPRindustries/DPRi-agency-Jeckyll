@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "Online Presence"
         desc: "DPR interactive specialises in getting small business online, working with you to provide solutions to support your growing business."
-        icon: fas icon="fa-solid fa-server" #find more at https://fontawesome.com/icons
+        icon: fas "fa-solid fa-server" #find more at https://fontawesome.com/icons
       - title: "IT infrastructure"
         desc: "Whether you run your own business from home or have a small team to provide devices for we can help you discover and provide devices that will enable you or your team to work smoothly"
-        icon: fas icon="fa-solid fa-computer"
+        icon: fas "fa-solid fa-computer"
 
 
   about:
@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     people:
       - name: "Dafydd"
         role: "Founder"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/1.jpg
 
 
   contact:
